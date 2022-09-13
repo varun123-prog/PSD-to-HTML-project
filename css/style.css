@@ -336,7 +336,7 @@ body{
 
 
 
-
+/* added navbar sectionn media  query */
 /* navbar-section */
 @media only screen and (max-width: 500px ){
     #navbar{
